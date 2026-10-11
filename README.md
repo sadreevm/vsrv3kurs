@@ -1,6 +1,6 @@
 Repository for MIREA.
 
-It was created for postign works on VSRV.
+It was created for posting works on VSRV.
 
 Each of work is located in folder src/{number}practice or src/{number}lab
 
