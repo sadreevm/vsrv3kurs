@@ -1,0 +1,6 @@
+total 28
+-rw-r--r--. 1 sadreevm sadreevm   252 Oct 12 17:23 execl_test.c
+-rw-r--r--. 1 sadreevm sadreevm     0 Oct 12 17:40 output.txt
+-rw-r--r--. 1 sadreevm sadreevm   530 Oct 11 19:20 pid.c
+-rwxr-xr-x. 1 sadreevm sadreevm 12728 Oct 12 17:40 redirect
+-rw-r--r--. 1 sadreevm sadreevm   355 Oct 12 17:39 redirect.c
